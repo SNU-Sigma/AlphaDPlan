@@ -39,28 +39,28 @@
 | 26            | 27            | 28            | 29            | 30            | 1             | 2             |
 | Z             | Z             |               |               |               | A             | A             |
 | 3             | 4             | 5             | 6             | 7             | 8             | 9             |
-| A<br>B        | A<br>B        | B             | C             | C<br>D        | C<br>D        | C<br>E        |
+| A & B         | A & B         | B             | C             | C & D         | C & D         | C & E         |
 | 10            | 11            | 12            | 13            | 14            | 15            | 16            |
-| C             | C             | C<br>F        | F             | F             | F<br>G        | F<br>G        |
+| C             | C             | C & F         | F             | F             | F & G         | F & G         |
 | 17            | 18            | 19            | 20            | 21            | 22            | 23            |
-| F<br>G        | F<br>G        | F<br>G        | F<br>G        | H             | H             | H             |
+| F & G         | F & G         | F & G         | F & G         | H             | H             | H             |
 | 24            | 25            | 26            | 27            | 28            | 29            | 30            |
-| I<br>J<br>K   | I<br>J<br>K   | I<br>J<br>K   | L             | L             | M<br>N        | M<br>N        |
+| I & J & K     | I & J & K     | I & J & K     | L             | L             | M & N         | M & N         |
 | 31            |               |               |               |               |               |               |
-| M<br>N        |               |               |               |               |               |               |
+| M & N         |               |               |               |               |               |               |
 
 ### August
 
 | Sun           | Mon           | Tue           | Wed           | Thu           | Fri           | Sat           |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 |               | 1             | 2             | 3             | 4             | 5             | 6             |
-|               | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   |
+|               | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     |
 | 7             | 8             | 9             | 10            | 11            | 12            | 13            |
-| M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   |
+| M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     |
 | 14            | 15            | 16            | 17            | 18            | 19            | 20            |
-| M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   |
+| M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     |
 | 21            | 22            | 23            | 24            | 25            | 26            | 27            |
-| M<br>N<br>O   | -             | -             | -             | -             | -             | -             |
+| M & N & O     | -             | -             | -             | -             | -             | -             |
 | 28            | 29            | 30            | 31            |               |               |               |
 | -             | -             | -             | -             |
 
@@ -69,13 +69,13 @@
 | Sun           | Mon           | Tue           | Wed           | Thu           | Fri           | Sat           |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 |               |               |               |               | 1             | 2             | 3             |
-|               |               |               |               | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   |
+|               |               |               |               | -             | -             | M & N & O     |
 | 4             | 5             | 6             | 7             | 8             | 9             | 10            |
-| M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   | M<br>N<br>O   |
+| M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     | M & N & O     |
 | 11            | 12            | 13            | 14            | 15            | 16            | 17            |
-| P             | P             | P             | P<br>Q        | Q             | Q             | Q             |
+| P             | P             | P             | P & Q         | Q             | Q             | Q             |
 | 18            | 19            | 20            | 21            | 22            | 23            | 24            |
-| Q             | Q<br>R        | Q<br>R        | R             | S             | S             | S             |
+| Q             | Q & R         | Q & R         | R             | S             | S             | S             |
 | 25            | 26            | 27            | 28            | 29            | 30            |               |
 | T             | T             | T             | T             | T             | T             |               |
 
